@@ -1,0 +1,4 @@
+sqlite3.c linguist-generated
+sqlite3.h linguist-generated
+jquery* linguist-vendored
+*.pl linguist-vendored
