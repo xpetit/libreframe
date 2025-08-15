@@ -1,0 +1,3784 @@
+
+Exception time          : 20250805-150331.258
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-05 14:53:28
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 25428 ] Max: [ 37184 ]
+All mem. alloc. (bytes) : All Cur: [ 29360128 ] Max: [ 29360128 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c0c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1484
+0x52c5d6 Libreframe.Sql.Get_Properties at libreframe-sql.adb:330
+0x59522e Testapi_Sql.Run at testapi_sql.adb:247
+0x41a9c4 Testapi at testapi.adb:189
+0x41bd59 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7e333da29d8e
+0x7e333da29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-150636.011
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 14:53:28
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 10852 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 19922944 ] Max: [ 19922944 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c0c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1484
+0x52c5d6 Libreframe.Sql.Get_Properties at libreframe-sql.adb:330
+0x594a32 Testapi_Sql.Run at testapi_sql.adb:247
+0x41a9c4 Testapi at testapi.adb:189
+0x41bd59 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7de629829d8e
+0x7de629829e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-160001.684
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 15:59:44
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 10852 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 19791872 ] Max: [ 19791872 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c609 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1469
+0x52cb16 Libreframe.Sql.Get_Properties at libreframe-sql.adb:330
+0x5952d2 Testapi_Sql.Run at testapi_sql.adb:247
+0x41a9c4 Testapi at testapi.adb:189
+0x41bd59 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x74626fa29d8e
+0x74626fa29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-162516.871
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 16:19:47
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 10852 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 19922944 ] Max: [ 19922944 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c749 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1465
+0x52cc56 Libreframe.Sql.Get_Properties at libreframe-sql.adb:330
+0x595f36 Testapi_Sql.Run at testapi_sql.adb:230
+0x41a9c4 Testapi at testapi.adb:189
+0x41bd59 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x709366c29d8e
+0x709366c29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-162807.415
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-05 16:19:47
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 33884 ] Max: [ 42384 ]
+All mem. alloc. (bytes) : All Cur: [ 30015488 ] Max: [ 30015488 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c749 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1465
+0x530ccc Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5975da Testapi_Sql.Run at testapi_sql.adb:267
+0x41a9c4 Testapi at testapi.adb:189
+0x41bd59 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x73ef2dc29d8e
+0x73ef2dc29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-163011.254
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 16:19:47
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 20447232 ] Max: [ 20447232 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c749 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1465
+0x530ccc Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5973d7 Testapi_Sql.Run at testapi_sql.adb:267
+0x41a9c4 Testapi at testapi.adb:189
+0x41bd59 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x734644829d8e
+0x734644829e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-163831.119
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 26738688 ] Max: [ 26738688 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450997 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c889 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1471
+0x530e0c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5975b7 Testapi_Sql.Run at testapi_sql.adb:267
+0x41a9d8 Testapi at testapi.adb:189
+0x41bd6d Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x743a5cc29d8e
+0x743a5cc29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-163927.534
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 27131904 ] Max: [ 27131904 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450997 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c889 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1471
+0x530e0c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5975b7 Testapi_Sql.Run at testapi_sql.adb:267
+0x41a9d8 Testapi at testapi.adb:189
+0x41bd6d Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7782a7a29d8e
+0x7782a7a29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-170002.796
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 26869760 ] Max: [ 26869760 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450997 Libreframe.Log.Error at libreframe-log.adb:77
+0x52cb49 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1480
+0x5310cc Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x597b57 Testapi_Sql.Run at testapi_sql.adb:267
+0x41a9d3 Testapi at testapi.adb:187
+0x41bd69 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x70f96d629d8e
+0x70f96d629e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-170039.943
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 26869760 ] Max: [ 26869760 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450997 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c889 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1480
+0x530e0c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5975b7 Testapi_Sql.Run at testapi_sql.adb:267
+0x41a9d3 Testapi at testapi.adb:187
+0x41bd69 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x77bde5c29d8e
+0x77bde5c29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-170134.117
+Program uptime          : 0h00m03s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 26060 ] Max: [ 37184 ]
+All mem. alloc. (bytes) : All Cur: [ 62521344 ] Max: [ 62521344 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450997 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c889 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1480
+0x530e0c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5975b7 Testapi_Sql.Run at testapi_sql.adb:267
+0x41a9d3 Testapi at testapi.adb:187
+0x41bd69 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7731e2229d8e
+0x7731e2229e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-170603.024
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 27000832 ] Max: [ 27000832 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450997 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c909 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1472
+0x530e8c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x597597 Testapi_Sql.Run at testapi_sql.adb:267
+0x41a9d3 Testapi at testapi.adb:187
+0x41bd69 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x780464c29d8e
+0x780464c29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-170646.892
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 27131904 ] Max: [ 27131904 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450997 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c909 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1473
+0x530e8c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x597597 Testapi_Sql.Run at testapi_sql.adb:267
+0x41a9d3 Testapi at testapi.adb:187
+0x41bd69 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x79bdec629d8e
+0x79bdec629e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-170721.135
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 27131904 ] Max: [ 27131904 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450997 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c9c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1473
+0x530f4c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x597677 Testapi_Sql.Run at testapi_sql.adb:267
+0x41a9d3 Testapi at testapi.adb:187
+0x41bd69 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7e5ec4c29d8e
+0x7e5ec4c29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-171311.805
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 21102592 ] Max: [ 21102592 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c9c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1473
+0x530f4c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x597dee Testapi_Sql.Run at testapi_sql.adb:263
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x710502229d8e
+0x710502229e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-175538.157
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 11092 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 20840448 ] Max: [ 20840448 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x47bffc Libreframe.Sql.Drivers.Query at libreframe-sql-drivers.adb:709
+0x47cd98 Libreframe.Sql.Drivers.Query at libreframe-sql-drivers.adb:641
+0x537ea5 Libreframe.Sql.Last_Rowid at libreframe-sql.adb:598
+0x597d3f Testapi_Sql.Run at testapi_sql.adb:200
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x713dace29d8e
+0x713dace29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-181045.155
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 11092 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 20709376 ] Max: [ 20709376 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x47bffc Libreframe.Sql.Drivers.Query at libreframe-sql-drivers.adb:709
+0x47cd98 Libreframe.Sql.Drivers.Query at libreframe-sql-drivers.adb:641
+0x537ea5 Libreframe.Sql.Last_Rowid at libreframe-sql.adb:598
+0x597d3f Testapi_Sql.Run at testapi_sql.adb:200
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7c1e86e29d8e
+0x7c1e86e29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-182253.569
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 21102592 ] Max: [ 21102592 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c9c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1473
+0x530f4c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5984a0 Testapi_Sql.Run at testapi_sql.adb:262
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x736d66229d8e
+0x736d66229e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-182755.156
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 21364736 ] Max: [ 21364736 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c9c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1473
+0x530f4c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x59822e Testapi_Sql.Run at testapi_sql.adb:242
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x705091629d8e
+0x705091629e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-182835.932
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 21233664 ] Max: [ 21233664 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c9c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1473
+0x530f4c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x598233 Testapi_Sql.Run at testapi_sql.adb:243
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x705820829d8e
+0x705820829e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-183158.998
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 21102592 ] Max: [ 21102592 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c9c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1473
+0x530f4c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x598b67 Testapi_Sql.Run at testapi_sql.adb:242
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x76d0e2429d8e
+0x76d0e2429e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250805-183213.909
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-05 16:37:52
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13404 ] Max: [ 22608 ]
+All mem. alloc. (bytes) : All Cur: [ 21102592 ] Max: [ 21102592 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c9c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1473
+0x530f4c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x598b62 Testapi_Sql.Run at testapi_sql.adb:239
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x749dd4829d8e
+0x749dd4829e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-095714.718
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 26716 ] Max: [ 37360 ]
+All mem. alloc. (bytes) : All Cur: [ 30670848 ] Max: [ 30670848 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c809 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1479
+0x52cd16 Libreframe.Sql.Get_Properties at libreframe-sql.adb:330
+0x52dacb Libreframe.Sql.Get_Database_Brand at libreframe-sql.adb:237
+0x52e577 Libreframe.Sql.Clear_Table at libreframe-sql.adb:51
+0x53e505 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1053
+0x5986bc Testapi_Sql.Run at testapi_sql.adb:222
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7855d8829d8e
+0x7855d8829e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-095934.322
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 34700 ] Max: [ 42908 ]
+All mem. alloc. (bytes) : All Cur: [ 22151168 ] Max: [ 22151168 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c809 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1479
+0x52cd16 Libreframe.Sql.Get_Properties at libreframe-sql.adb:330
+0x52dacb Libreframe.Sql.Get_Database_Brand at libreframe-sql.adb:237
+0x52e577 Libreframe.Sql.Clear_Table at libreframe-sql.adb:51
+0x53e505 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1053
+0x5986bc Testapi_Sql.Run at testapi_sql.adb:222
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x78ccbce29d8e
+0x78ccbce29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-100303.759
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 33916 ] Max: [ 42368 ]
+All mem. alloc. (bytes) : All Cur: [ 31064064 ] Max: [ 31064064 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c949 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1480
+0x530ecc Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5990ee Testapi_Sql.Run at testapi_sql.adb:240
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7afa2e429d8e
+0x7afa2e429e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-100339.657
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13436 ] Max: [ 22784 ]
+All mem. alloc. (bytes) : All Cur: [ 21364736 ] Max: [ 21364736 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c949 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1480
+0x530ecc Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5990ee Testapi_Sql.Run at testapi_sql.adb:240
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x75ed8ae29d8e
+0x75ed8ae29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-103140.754
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13436 ] Max: [ 22784 ]
+All mem. alloc. (bytes) : All Cur: [ 21495808 ] Max: [ 21495808 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c809 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1501
+0x530d8c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5988ee Testapi_Sql.Run at testapi_sql.adb:238
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7fd992229d8e
+0x7fd992229e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-103231.137
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13436 ] Max: [ 22784 ]
+All mem. alloc. (bytes) : All Cur: [ 21364736 ] Max: [ 21364736 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c949 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1501
+0x530ecc Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5990ee Testapi_Sql.Run at testapi_sql.adb:238
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7add51229d8e
+0x7add51229e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-103545.518
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13436 ] Max: [ 22784 ]
+All mem. alloc. (bytes) : All Cur: [ 21364736 ] Max: [ 21364736 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c949 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1501
+0x530ecc Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5990ee Testapi_Sql.Run at testapi_sql.adb:238
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x792f95229d8e
+0x792f95229e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-103650.959
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13436 ] Max: [ 22784 ]
+All mem. alloc. (bytes) : All Cur: [ 21495808 ] Max: [ 21495808 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52c949 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1465
+0x530ecc Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x5990ee Testapi_Sql.Run at testapi_sql.adb:234
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x70d8f8629d8e
+0x70d8f8629e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-113228.947
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 26388 ] Max: [ 34596 ]
+All mem. alloc. (bytes) : All Cur: [ 12451840 ] Max: [ 12451840 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52e089 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1493
+0x52e596 Libreframe.Sql.Get_Properties at libreframe-sql.adb:330
+0x52f34b Libreframe.Sql.Get_Database_Brand at libreframe-sql.adb:237
+0x52fdf7 Libreframe.Sql.Clear_Table at libreframe-sql.adb:51
+0x54043f Libreframe.Sql.Schema_Update at libreframe-sql.adb:1067
+0x598d24 Testapi_Sql.Run at testapi_sql.adb:121
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7a6a5c029d8e
+0x7a6a5c029e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-113542.205
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 26092 ] Max: [ 37360 ]
+All mem. alloc. (bytes) : All Cur: [ 30670848 ] Max: [ 30670848 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52e089 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1493
+0x53260c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x59b50e Testapi_Sql.Run at testapi_sql.adb:234
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7f4322029d8e
+0x7f4322029e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-113630.460
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13436 ] Max: [ 22784 ]
+All mem. alloc. (bytes) : All Cur: [ 21364736 ] Max: [ 21364736 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52e149 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1493
+0x5326cc Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x59b60e Testapi_Sql.Run at testapi_sql.adb:234
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7bc7b8c29d8e
+0x7bc7b8c29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-113648.776
+Program uptime          : 0h00m02s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 25932 ] Max: [ 37360 ]
+All mem. alloc. (bytes) : All Cur: [ 39583744 ] Max: [ 39583744 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52e149 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1493
+0x5326cc Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x59b60e Testapi_Sql.Run at testapi_sql.adb:234
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x76c399a29d8e
+0x76c399a29e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-114909.702
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 09:55:37
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13436 ] Max: [ 22784 ]
+All mem. alloc. (bytes) : All Cur: [ 21495808 ] Max: [ 21495808 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450977 Libreframe.Log.Error at libreframe-log.adb:77
+0x52e3c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1493
+0x53294c Libreframe.Sql.Get_Properties at libreframe-sql.adb:378
+0x59b96e Testapi_Sql.Run at testapi_sql.adb:234
+0x41a9bf Testapi at testapi.adb:187
+0x41bd55 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x77918e429d8e
+0x77918e429e3e
+[./testapi]
+0x4178e3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-150646.075
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 15:00:41
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 6932 ] Max: [ 12548 ]
+All mem. alloc. (bytes) : All Cur: [ 13893632 ] Max: [ 13893632 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:77
+[./testapi]
+0x450af7 Libreframe.Log.Error at libreframe-log.adb:77
+0x47d035 Libreframe.Sql.Drivers.Open at libreframe-sql-drivers.adb:610
+0x54c557 Libreframe.Sql.Open at libreframe-sql.adb:738
+0x595703 Testapi_Sql.Run at testapi_sql.adb:251
+0x41ab3f Testapi at testapi.adb:187
+0x41bed5 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7150a4e29d8e
+0x7150a4e29e3e
+[./testapi]
+0x417a63 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-151418.976
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 15:00:41
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 6932 ] Max: [ 12548 ]
+All mem. alloc. (bytes) : All Cur: [ 14680064 ] Max: [ 14680064 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450b63 Libreframe.Log.Error at libreframe-log.adb:79
+0x47e29e Libreframe.Sql.Drivers.Open at libreframe-sql-drivers.adb:616
+0x54d817 Libreframe.Sql.Open at libreframe-sql.adb:738
+0x5969c3 Testapi_Sql.Run at testapi_sql.adb:251
+0x41ab53 Testapi at testapi.adb:187
+0x41bee9 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x712fd7c29d8e
+0x712fd7c29e3e
+[./testapi]
+0x417a63 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-151602.095
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 15:00:41
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 6932 ] Max: [ 12548 ]
+All mem. alloc. (bytes) : All Cur: [ 14548992 ] Max: [ 14548992 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450b63 Libreframe.Log.Error at libreframe-log.adb:79
+0x47e29e Libreframe.Sql.Drivers.Open at libreframe-sql-drivers.adb:616
+0x54d817 Libreframe.Sql.Open at libreframe-sql.adb:738
+0x5969c3 Testapi_Sql.Run at testapi_sql.adb:251
+0x41ab53 Testapi at testapi.adb:187
+0x41bee9 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x70654ae29d8e
+0x70654ae29e3e
+[./testapi]
+0x417a63 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-151608.084
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 15:00:41
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 7812 ] Max: [ 15924 ]
+All mem. alloc. (bytes) : All Cur: [ 15204352 ] Max: [ 15204352 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450b63 Libreframe.Log.Error at libreframe-log.adb:79
+0x47f89c Libreframe.Sql.Drivers.Query at libreframe-sql-drivers.adb:819
+0x4802c5 Libreframe.Sql.Drivers.List_Of_Tables at libreframe-sql-drivers.adb:416
+0x52e76a Libreframe.Sql.Table_Exists at libreframe-sql.adb:1358
+0x548ac7 Libreframe.Sql.Open_Load at libreframe-sql.adb:1641
+0x54c81c Libreframe.Sql.Open at libreframe-sql.adb:759
+0x5969c3 Testapi_Sql.Run at testapi_sql.adb:251
+0x41ab53 Testapi at testapi.adb:187
+0x41bee9 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7fbc05829d8e
+0x7fbc05829e3e
+[./testapi]
+0x417a63 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-171636.498
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 16:59:06
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 7876 ] Max: [ 17700 ]
+All mem. alloc. (bytes) : All Cur: [ 12451840 ] Max: [ 12451840 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450b63 Libreframe.Log.Error at libreframe-log.adb:79
+0x533009 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1504
+0x5361c2 Libreframe.Sql.Get_Properties at libreframe-sql.adb:356
+0x5365df Libreframe.Sql.Get_Database_Brand at libreframe-sql.adb:256
+0x480dd2 Libreframe.Sql.Drivers.List_Of_Tables at libreframe-sql-drivers.adb:450
+0x52f9ea Libreframe.Sql.Table_Exists at libreframe-sql.adb:1353
+0x549fd5 Libreframe.Sql.Open_Load at libreframe-sql.adb:1636
+0x54dd6c Libreframe.Sql.Open at libreframe-sql.adb:762
+0x5a11b5 Testapi_Sql.Run at testapi_sql.adb:249
+0x41ab53 Testapi at testapi.adb:187
+0x41bee9 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x748aa8429d8e
+0x748aa8429e3e
+[./testapi]
+0x417a63 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-172806.835
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 16:59:06
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 7620 ] Max: [ 16644 ]
+All mem. alloc. (bytes) : All Cur: [ 12320768 ] Max: [ 12320768 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450b63 Libreframe.Log.Error at libreframe-log.adb:79
+0x5335f7 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1504
+0x533951 Libreframe.Sql.Get_Database_Brand at libreframe-sql.adb:259
+0x480dd2 Libreframe.Sql.Drivers.List_Of_Tables at libreframe-sql-drivers.adb:450
+0x52ffd8 Libreframe.Sql.Table_Exists at libreframe-sql.adb:1353
+0x549c55 Libreframe.Sql.Open_Load at libreframe-sql.adb:1636
+0x54d9ec Libreframe.Sql.Open at libreframe-sql.adb:762
+0x5a0e35 Testapi_Sql.Run at testapi_sql.adb:249
+0x41ab53 Testapi at testapi.adb:187
+0x41bee9 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x788190c29d8e
+0x788190c29e3e
+[./testapi]
+0x417a63 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-182123.483
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 18:11:11
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 7620 ] Max: [ 16644 ]
+All mem. alloc. (bytes) : All Cur: [ 12320768 ] Max: [ 12320768 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450b63 Libreframe.Log.Error at libreframe-log.adb:79
+0x534729 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:1520
+0x534a83 Libreframe.Sql.Get_Database_Brand at libreframe-sql.adb:259
+0x481d22 Libreframe.Sql.Drivers.List_Of_Tables at libreframe-sql-drivers.adb:462
+0x530d58 Libreframe.Sql.Table_Exists at libreframe-sql.adb:1369
+0x54ad86 Libreframe.Sql.Open_Load at libreframe-sql.adb:1652
+0x54eb40 Libreframe.Sql.Open at libreframe-sql.adb:761
+0x5a1f75 Testapi_Sql.Run at testapi_sql.adb:249
+0x41ab53 Testapi at testapi.adb:187
+0x41bee9 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7f36c9029d8e
+0x7f36c9029e3e
+[./testapi]
+0x417a63 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-182319.660
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 18:11:11
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 6996 ] Max: [ 14148 ]
+All mem. alloc. (bytes) : All Cur: [ 12713984 ] Max: [ 12713984 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450b63 Libreframe.Log.Error at libreframe-log.adb:79
+0x538619 Libreframe.Sql.Log_Error_Table_Not_Found at libreframe-sql.adb:1527
+0x53d074 Libreframe.Sql.Get_Config at libreframe-sql.adb:216
+0x54aeca Libreframe.Sql.Open_Load at libreframe-sql.adb:1654
+0x54eba0 Libreframe.Sql.Open at libreframe-sql.adb:761
+0x5a1fd5 Testapi_Sql.Run at testapi_sql.adb:249
+0x41ab53 Testapi at testapi.adb:187
+0x41bee9 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x72fa39629d8e
+0x72fa39629e3e
+[./testapi]
+0x417a63 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-184230.783
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-06 18:11:11
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 14252 ] Max: [ 22784 ]
+All mem. alloc. (bytes) : All Cur: [ 35520512 ] Max: [ 35520512 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450b63 Libreframe.Log.Error at libreframe-log.adb:79
+0x48075c Libreframe.Sql.Drivers.Query at libreframe-sql-drivers.adb:912
+0x4815ba Libreframe.Sql.Drivers.List_Of_Tables at libreframe-sql-drivers.adb:491
+0x530d65 Libreframe.Sql.Table_Exists at libreframe-sql.adb:1369
+0x54adda Libreframe.Sql.Open_Load at libreframe-sql.adb:1652
+0x54eb94 Libreframe.Sql.Open at libreframe-sql.adb:761
+0x5a21b5 Testapi_Sql.Run at testapi_sql.adb:260
+0x41ab53 Testapi at testapi.adb:187
+0x41bee9 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x77659a629d8e
+0x77659a629e3e
+[./testapi]
+0x417a63 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250806-184312.281
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-06 18:11:11
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 14108 ] Max: [ 22784 ]
+All mem. alloc. (bytes) : All Cur: [ 24117248 ] Max: [ 24117248 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised PROGRAM_ERROR : libreframe-sql-drivers.adb:282 missing return
+[./testapi]
+0x47d673 Libreframe.Sql.Drivers.Field_Value at libreframe-sql-drivers.adb:282
+0x481666 Libreframe.Sql.Drivers.List_Of_Tables at libreframe-sql-drivers.adb:495
+0x530d25 Libreframe.Sql.Table_Exists at libreframe-sql.adb:1369
+0x54ad9a Libreframe.Sql.Open_Load at libreframe-sql.adb:1652
+0x54eb54 Libreframe.Sql.Open at libreframe-sql.adb:761
+0x5a2175 Testapi_Sql.Run at testapi_sql.adb:260
+0x41ab3f Testapi at testapi.adb:187
+0x41bed5 Main at b__testapi.adb:723
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x79ecacc29d8e
+0x79ecacc29e3e
+[./testapi]
+0x417a63 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-083011.246
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-07 19:17:04
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 7300 ] Max: [ 15412 ]
+All mem. alloc. (bytes) : All Cur: [ 11927552 ] Max: [ 11927552 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450e83 Libreframe.Log.Error at libreframe-log.adb:79
+0x53d6ed Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2343
+0x53da47 Libreframe.Sql.Get_Database_Brand at libreframe-sql.adb:581
+0x53e0d2 Libreframe.Sql.Query at libreframe-sql.adb:1260
+0x55aaa9 Libreframe.Sql.Open_Load at libreframe-sql.adb:2568
+0x55ecea Libreframe.Sql.Open_Database at libreframe-sql.adb:1193
+0x5b2395 Testapi_Sql.Run at testapi_sql.adb:249
+0x41ae93 Testapi at testapi.adb:187
+0x41c213 Main at b__testapi.adb:720
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x719d47229d8e
+0x719d47229e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-084039.659
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-08 08:39:19
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38188 ] Max: [ 48316 ]
+All mem. alloc. (bytes) : All Cur: [ 33947648 ] Max: [ 33947648 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450e83 Libreframe.Log.Error at libreframe-log.adb:79
+0x539e9e Libreframe.Sql.Query at libreframe-sql.adb:1441
+0x53ca39 Libreframe.Sql.List_Of_Tables at libreframe-sql.adb:999
+0x53d30b Libreframe.Sql.Table_Exists at libreframe-sql.adb:2085
+0x53dbc4 Libreframe.Sql.Table_Exists at libreframe-sql.adb:2069
+0x5442b7 Libreframe.Sql.Table_Exists at libreframe-sql.adb:2053
+0x544f0a Libreframe.Sql.Clear_Table at libreframe-sql.adb:93
+0x554d5b Libreframe.Sql.Schema_Update at libreframe-sql.adb:1793
+0x5af5ba Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5b2650 Testapi_Sql.Run at testapi_sql.adb:264
+0x41ae93 Testapi at testapi.adb:187
+0x41c213 Main at b__testapi.adb:720
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7ba18c629d8e
+0x7ba18c629e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-090956.069
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-08 09:09:42
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38188 ] Max: [ 48316 ]
+All mem. alloc. (bytes) : All Cur: [ 33947648 ] Max: [ 33947648 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450e83 Libreframe.Log.Error at libreframe-log.adb:79
+0x53877e Libreframe.Sql.Query at libreframe-sql.adb:1432
+0x53b319 Libreframe.Sql.List_Of_Tables at libreframe-sql.adb:990
+0x53bbeb Libreframe.Sql.Table_Exists at libreframe-sql.adb:2076
+0x53c4a4 Libreframe.Sql.Table_Exists at libreframe-sql.adb:2060
+0x5426a1 Libreframe.Sql.Table_Exists at libreframe-sql.adb:2044
+0x543183 Libreframe.Sql.Clear_Table at libreframe-sql.adb:95
+0x552e83 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1784
+0x5ad75a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5b0818 Testapi_Sql.Run at testapi_sql.adb:270
+0x41ae93 Testapi at testapi.adb:187
+0x41c213 Main at b__testapi.adb:720
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x71d28ea29d8e
+0x71d28ea29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-092044.775
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-08 09:09:42
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38188 ] Max: [ 48316 ]
+All mem. alloc. (bytes) : All Cur: [ 34209792 ] Max: [ 34209792 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450e83 Libreframe.Log.Error at libreframe-log.adb:79
+0x5388fe Libreframe.Sql.Query at libreframe-sql.adb:1433
+0x53b499 Libreframe.Sql.List_Of_Tables at libreframe-sql.adb:990
+0x53bd6b Libreframe.Sql.Table_Exists at libreframe-sql.adb:2077
+0x53c624 Libreframe.Sql.Table_Exists at libreframe-sql.adb:2061
+0x542821 Libreframe.Sql.Table_Exists at libreframe-sql.adb:2045
+0x543303 Libreframe.Sql.Clear_Table at libreframe-sql.adb:95
+0x553003 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1785
+0x5ad95a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5b0a18 Testapi_Sql.Run at testapi_sql.adb:270
+0x41ae93 Testapi at testapi.adb:187
+0x41c213 Main at b__testapi.adb:720
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7870e9229d8e
+0x7870e9229e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-122417.406
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38188 ] Max: [ 48316 ]
+All mem. alloc. (bytes) : All Cur: [ 24248320 ] Max: [ 24248320 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x535535 Libreframe.Sql.Query at libreframe-sql.adb:1426
+0x537f01 Libreframe.Sql.List_Of_Tables at libreframe-sql.adb:983
+0x538665 Libreframe.Sql.Table_Exists at libreframe-sql.adb:2052
+0x538c99 Libreframe.Sql.Table_Exists at libreframe-sql.adb:2036
+0x53e9b2 Libreframe.Sql.Table_Exists at libreframe-sql.adb:2023
+0x53ea91 Libreframe.Sql.Clear_Table at libreframe-sql.adb:90
+0x54c882 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1773
+0x5aa0da Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5ad170 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x765e30629d8e
+0x765e30629e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-144817.200
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 14460 ] Max: [ 23388 ]
+All mem. alloc. (bytes) : All Cur: [ 21495808 ] Max: [ 21495808 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised PROGRAM_ERROR : LibreFrame.Sql.Databases_List.Implementation.TC_Check: attempt to tamper with cursors
+[./testapi]
+0x4ee272 Libreframe.Sql.Databases_List.Implementation.Tc_Check at a-conhel.adb:135
+0x4f42a4 Libreframe.Sql.Databases_List.Delete at a-convec.adb:409
+0x4f45fb Libreframe.Sql.Databases_List.Delete at a-convec.adb:523
+0x53e069 Libreframe.Sql.Close_Database at libreframe-sql.adb:124
+0x53e528 Libreframe.Sql.Close_Database at libreframe-sql.adb:155
+0x5acb56 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:230
+0x5ad9b0 Testapi_Sql.Run at testapi_sql.adb:259
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7bce25629d8e
+0x7bce25629e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-145312.494
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38268 ] Max: [ 48140 ]
+All mem. alloc. (bytes) : All Cur: [ 24117248 ] Max: [ 24117248 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53801e Libreframe.Sql.Field_Value at libreframe-sql.adb:508
+0x548429 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:965
+0x548884 Libreframe.Sql.Column_Exists at libreframe-sql.adb:192
+0x54a527 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1720
+0x54b5bc Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1801
+0x54dfa8 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1869
+0x5aae1a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5adeb0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x727cad629d8e
+0x727cad629e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-145751.513
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38460 ] Max: [ 48332 ]
+All mem. alloc. (bytes) : All Cur: [ 24117248 ] Max: [ 24117248 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53811e Libreframe.Sql.Field_Value at libreframe-sql.adb:508
+0x548579 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:965
+0x5489d4 Libreframe.Sql.Column_Exists at libreframe-sql.adb:192
+0x54a677 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1720
+0x54b70c Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1801
+0x54e0f8 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1869
+0x5aaf5a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5adff0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x70e04d029d8e
+0x70e04d029e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-150130.287
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38556 ] Max: [ 48428 ]
+All mem. alloc. (bytes) : All Cur: [ 23986176 ] Max: [ 23986176 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53821e Libreframe.Sql.Field_Value at libreframe-sql.adb:508
+0x5486d1 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:965
+0x548b2c Libreframe.Sql.Column_Exists at libreframe-sql.adb:192
+0x54a7cf Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1720
+0x54b864 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1801
+0x54e250 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1869
+0x5ab0ba Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5ae150 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7fe6e1829d8e
+0x7fe6e1829e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-150459.010
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38492 ] Max: [ 48364 ]
+All mem. alloc. (bytes) : All Cur: [ 23986176 ] Max: [ 23986176 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53821e Libreframe.Sql.Field_Value at libreframe-sql.adb:508
+0x5486d1 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:965
+0x548b2c Libreframe.Sql.Column_Exists at libreframe-sql.adb:192
+0x54a7cf Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1720
+0x54b864 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1801
+0x54e250 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1869
+0x5ab0ba Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5ae150 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7dcf5f029d8e
+0x7dcf5f029e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-150544.445
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 14460 ] Max: [ 23388 ]
+All mem. alloc. (bytes) : All Cur: [ 21889024 ] Max: [ 21889024 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised PROGRAM_ERROR : LibreFrame.Sql.Databases_List.Implementation.TC_Check: attempt to tamper with cursors
+[./testapi]
+0x4ee272 Libreframe.Sql.Databases_List.Implementation.Tc_Check at a-conhel.adb:135
+0x4f42a4 Libreframe.Sql.Databases_List.Delete at a-convec.adb:409
+0x4f45fb Libreframe.Sql.Databases_List.Delete at a-convec.adb:523
+0x53e069 Libreframe.Sql.Close_Database at libreframe-sql.adb:126
+0x53e528 Libreframe.Sql.Close_Database at libreframe-sql.adb:160
+0x5acb56 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:230
+0x5ad9b0 Testapi_Sql.Run at testapi_sql.adb:259
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x74afe9429d8e
+0x74afe9429e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-150654.682
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 14460 ] Max: [ 23388 ]
+All mem. alloc. (bytes) : All Cur: [ 22020096 ] Max: [ 22020096 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised PROGRAM_ERROR : LibreFrame.Sql.Databases_List.Implementation.TC_Check: attempt to tamper with cursors
+[./testapi]
+0x4ee272 Libreframe.Sql.Databases_List.Implementation.Tc_Check at a-conhel.adb:135
+0x4f42a4 Libreframe.Sql.Databases_List.Delete at a-convec.adb:409
+0x4f45fb Libreframe.Sql.Databases_List.Delete at a-convec.adb:523
+0x53e0fd Libreframe.Sql.Close_Database at libreframe-sql.adb:141
+0x53e570 Libreframe.Sql.Close_Database at libreframe-sql.adb:167
+0x5acb96 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:230
+0x5ad9f0 Testapi_Sql.Run at testapi_sql.adb:259
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x77d8eca29d8e
+0x77d8eca29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-151216.159
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 14460 ] Max: [ 23388 ]
+All mem. alloc. (bytes) : All Cur: [ 21889024 ] Max: [ 21889024 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised PROGRAM_ERROR : LibreFrame.Sql.Databases_List.Implementation.TC_Check: attempt to tamper with cursors
+[./testapi]
+0x4ee272 Libreframe.Sql.Databases_List.Implementation.Tc_Check at a-conhel.adb:135
+0x4f42a4 Libreframe.Sql.Databases_List.Delete at a-convec.adb:409
+0x4f45fb Libreframe.Sql.Databases_List.Delete at a-convec.adb:523
+0x53e0fd Libreframe.Sql.Close_Database at libreframe-sql.adb:141
+0x53e570 Libreframe.Sql.Close_Database at libreframe-sql.adb:167
+0x5acb96 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:230
+0x5ad9f0 Testapi_Sql.Run at testapi_sql.adb:259
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x744797229d8e
+0x744797229e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-152323.563
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38492 ] Max: [ 48364 ]
+All mem. alloc. (bytes) : All Cur: [ 24510464 ] Max: [ 24510464 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x537e1e Libreframe.Sql.Field_Value at libreframe-sql.adb:501
+0x54803f Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:958
+0x54849a Libreframe.Sql.Column_Exists at libreframe-sql.adb:185
+0x54a13d Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1713
+0x54b1d2 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1794
+0x54dbbe Libreframe.Sql.Schema_Update at libreframe-sql.adb:1862
+0x5aaa1a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5adab0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7b0e1b429d8e
+0x7b0e1b429e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-152717.156
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38492 ] Max: [ 48364 ]
+All mem. alloc. (bytes) : All Cur: [ 24248320 ] Max: [ 24248320 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x537d1e Libreframe.Sql.Field_Value at libreframe-sql.adb:483
+0x547f3f Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:940
+0x54839a Libreframe.Sql.Column_Exists at libreframe-sql.adb:167
+0x54a03d Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1695
+0x54b0d2 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1776
+0x54dabe Libreframe.Sql.Schema_Update at libreframe-sql.adb:1844
+0x5aa89a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5ad930 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7367dae29d8e
+0x7367dae29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-153124.928
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38492 ] Max: [ 48364 ]
+All mem. alloc. (bytes) : All Cur: [ 24117248 ] Max: [ 24117248 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x537d1e Libreframe.Sql.Field_Value at libreframe-sql.adb:483
+0x547f3f Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:940
+0x54839a Libreframe.Sql.Column_Exists at libreframe-sql.adb:167
+0x54a03d Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1695
+0x54b0d2 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1776
+0x54dabe Libreframe.Sql.Schema_Update at libreframe-sql.adb:1844
+0x5aa89a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5ad930 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x779cbb629d8e
+0x779cbb629e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-153316.811
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38524 ] Max: [ 48396 ]
+All mem. alloc. (bytes) : All Cur: [ 24117248 ] Max: [ 24117248 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x537e1e Libreframe.Sql.Field_Value at libreframe-sql.adb:483
+0x548099 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:940
+0x5484f4 Libreframe.Sql.Column_Exists at libreframe-sql.adb:167
+0x54a197 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1695
+0x54b22c Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1776
+0x54dc18 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1844
+0x5aa9fa Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5ada90 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x728a17a29d8e
+0x728a17a29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-153433.576
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38492 ] Max: [ 48364 ]
+All mem. alloc. (bytes) : All Cur: [ 24248320 ] Max: [ 24248320 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x537e1e Libreframe.Sql.Field_Value at libreframe-sql.adb:484
+0x548099 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:941
+0x5484f4 Libreframe.Sql.Column_Exists at libreframe-sql.adb:168
+0x54a197 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1696
+0x54b22c Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1777
+0x54dc18 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1845
+0x5aa9fa Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5ada90 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x74ebeea29d8e
+0x74ebeea29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-153526.246
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38492 ] Max: [ 48364 ]
+All mem. alloc. (bytes) : All Cur: [ 24248320 ] Max: [ 24248320 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x537e1e Libreframe.Sql.Field_Value at libreframe-sql.adb:485
+0x5480b3 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:942
+0x54850e Libreframe.Sql.Column_Exists at libreframe-sql.adb:169
+0x54a1b1 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1697
+0x54b246 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1778
+0x54dc32 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1846
+0x5aaa1a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5adab0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x75f3bf829d8e
+0x75f3bf829e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-153742.001
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38492 ] Max: [ 48364 ]
+All mem. alloc. (bytes) : All Cur: [ 24248320 ] Max: [ 24248320 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x537f9e Libreframe.Sql.Field_Value at libreframe-sql.adb:487
+0x548321 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:944
+0x54877c Libreframe.Sql.Column_Exists at libreframe-sql.adb:171
+0x54a41f Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1699
+0x54b4b4 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1780
+0x54dea0 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1848
+0x5aac7a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5add10 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7637cde29d8e
+0x7637cde29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-153848.192
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38492 ] Max: [ 48364 ]
+All mem. alloc. (bytes) : All Cur: [ 24248320 ] Max: [ 24248320 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x537e9e Libreframe.Sql.Field_Value at libreframe-sql.adb:485
+0x5481ad Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:942
+0x548608 Libreframe.Sql.Column_Exists at libreframe-sql.adb:169
+0x54a2ab Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1697
+0x54b340 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1778
+0x54dd2c Libreframe.Sql.Schema_Update at libreframe-sql.adb:1846
+0x5aab1a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5adbb0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x72d398229d8e
+0x72d398229e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-155120.144
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38604 ] Max: [ 48476 ]
+All mem. alloc. (bytes) : All Cur: [ 24117248 ] Max: [ 24117248 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53825e Libreframe.Sql.Field_Value at libreframe-sql.adb:485
+0x5486dc Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:946
+0x548b36 Libreframe.Sql.Column_Exists at libreframe-sql.adb:169
+0x54a7d9 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1701
+0x54b86e Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1782
+0x54e25a Libreframe.Sql.Schema_Update at libreframe-sql.adb:1850
+0x5ab03a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5ae0d0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7376f8829d8e
+0x7376f8829e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-155408.514
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38604 ] Max: [ 48476 ]
+All mem. alloc. (bytes) : All Cur: [ 23986176 ] Max: [ 23986176 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53825e Libreframe.Sql.Field_Value at libreframe-sql.adb:485
+0x5486f4 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:949
+0x548b4e Libreframe.Sql.Column_Exists at libreframe-sql.adb:169
+0x54a7f1 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1704
+0x54b886 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1785
+0x54e272 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1853
+0x5ab05a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5ae0f0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x789daea29d8e
+0x789daea29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-155757.204
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38668 ] Max: [ 48540 ]
+All mem. alloc. (bytes) : All Cur: [ 23724032 ] Max: [ 23724032 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53825e Libreframe.Sql.Field_Value at libreframe-sql.adb:485
+0x5486f4 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:949
+0x548b4e Libreframe.Sql.Column_Exists at libreframe-sql.adb:169
+0x54a7f1 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1704
+0x54b886 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1785
+0x54e272 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1853
+0x5ab05a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5ae0f0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x73c70d429d8e
+0x73c70d429e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-160219.734
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38668 ] Max: [ 48540 ]
+All mem. alloc. (bytes) : All Cur: [ 24379392 ] Max: [ 24379392 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53845e Libreframe.Sql.Field_Value at libreframe-sql.adb:485
+0x548996 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:951
+0x548e10 Libreframe.Sql.Column_Exists at libreframe-sql.adb:169
+0x54aab3 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1706
+0x54bb48 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1787
+0x54e534 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1855
+0x5ab31a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5ae3b0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7f4fd5629d8e
+0x7f4fd5629e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-161155.723
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38748 ] Max: [ 48620 ]
+All mem. alloc. (bytes) : All Cur: [ 25034752 ] Max: [ 25034752 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x538dbc Libreframe.Sql.Field_Value at libreframe-sql.adb:485
+0x549396 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:952
+0x549844 Libreframe.Sql.Column_Exists at libreframe-sql.adb:169
+0x54b4e7 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1709
+0x54c57c Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1790
+0x54ef68 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1858
+0x5abd5a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5aedf0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x722a51a29d8e
+0x722a51a29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250808-161410.377
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-08 12:18:24
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38780 ] Max: [ 48652 ]
+All mem. alloc. (bytes) : All Cur: [ 25296896 ] Max: [ 25296896 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x538dbc Libreframe.Sql.Field_Value at libreframe-sql.adb:485
+0x549396 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:952
+0x549844 Libreframe.Sql.Column_Exists at libreframe-sql.adb:169
+0x54b4e7 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1709
+0x54c57c Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1790
+0x54ef68 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1858
+0x5abd5a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5aedf0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x77d184e29d8e
+0x77d184e29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-094648.012
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38780 ] Max: [ 48652 ]
+All mem. alloc. (bytes) : All Cur: [ 24772608 ] Max: [ 24772608 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x5391be Libreframe.Sql.Field_Value at libreframe-sql.adb:484
+0x549780 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:947
+0x549c2e Libreframe.Sql.Column_Exists at libreframe-sql.adb:168
+0x54b8d1 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1726
+0x54c966 Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1807
+0x54f352 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1875
+0x5ac1da Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5af270 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7a7f04429d8e
+0x7a7f04429e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-095220.162
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38780 ] Max: [ 48652 ]
+All mem. alloc. (bytes) : All Cur: [ 24772608 ] Max: [ 24772608 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x539472 Libreframe.Sql.Field_Value at libreframe-sql.adb:484
+0x549a34 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:947
+0x549ee2 Libreframe.Sql.Column_Exists at libreframe-sql.adb:168
+0x54bb85 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1727
+0x54cc1a Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1808
+0x54f606 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1876
+0x5ac49a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5af530 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x79ba21629d8e
+0x79ba21629e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-095505.211
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 38860 ] Max: [ 48988 ]
+All mem. alloc. (bytes) : All Cur: [ 24903680 ] Max: [ 24903680 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x539472 Libreframe.Sql.Field_Value at libreframe-sql.adb:455
+0x549a34 Libreframe.Sql.List_Fields_Of_Table at libreframe-sql.adb:925
+0x549ee2 Libreframe.Sql.Schema_Update.Add_Sys_Schema at libreframe-sql.adb:1688
+0x54bb85 Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1732
+0x54cc1a Libreframe.Sql.Schema_Update.Create_Table at libreframe-sql.adb:1786
+0x54f606 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1888
+0x5ac49a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:129
+0x5af530 testapi_sys__run__B14b___finalizer.1 at ???
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7a967dc29d8e
+0x7a967dc29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-100046.831
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37948 ] Max: [ 45292 ]
+All mem. alloc. (bytes) : All Cur: [ 26345472 ] Max: [ 26345472 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53ade7 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2360
+0x53f560 Libreframe.Sql.Get_Properties at libreframe-sql.adb:658
+0x54f194 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1834
+0x5ac63a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5af6d0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:187
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7be22ac29d8e
+0x7be22ac29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-100441.875
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37804 ] Max: [ 45148 ]
+All mem. alloc. (bytes) : All Cur: [ 23986176 ] Max: [ 23986176 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53b09d Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2361
+0x53f816 Libreframe.Sql.Get_Properties at libreframe-sql.adb:659
+0x54f44a Libreframe.Sql.Schema_Update at libreframe-sql.adb:1835
+0x5ac8fa Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5af990 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7a54f2029d8e
+0x7a54f2029e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-101301.690
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37820 ] Max: [ 45164 ]
+All mem. alloc. (bytes) : All Cur: [ 26607616 ] Max: [ 26607616 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53bc89 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2366
+0x5405a4 Libreframe.Sql.Get_Properties at libreframe-sql.adb:659
+0x55035f Libreframe.Sql.Schema_Update at libreframe-sql.adb:1840
+0x5ad85a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5b08f0 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x77da54429d8e
+0x77da54429e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-101524.477
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37820 ] Max: [ 45164 ]
+All mem. alloc. (bytes) : All Cur: [ 29097984 ] Max: [ 29097984 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53bf09 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2367
+0x54090d Libreframe.Sql.Get_Properties at libreframe-sql.adb:660
+0x5506d9 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1841
+0x5adbda Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5b0c70 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7a22e1e29d8e
+0x7a22e1e29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-102410.032
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37820 ] Max: [ 45164 ]
+All mem. alloc. (bytes) : All Cur: [ 29097984 ] Max: [ 29097984 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53bf09 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2367
+0x54090d Libreframe.Sql.Get_Properties at libreframe-sql.adb:660
+0x550655 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1841
+0x5adb7a Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:115
+0x5b0c10 Testapi_Sql.Run at testapi_sql.adb:270
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7c8500629d8e
+0x7c8500629e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-104256.601
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37820 ] Max: [ 45164 ]
+All mem. alloc. (bytes) : All Cur: [ 29229056 ] Max: [ 29229056 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53bf09 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2367
+0x54090d Libreframe.Sql.Get_Properties at libreframe-sql.adb:660
+0x550655 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1841
+0x5aedde Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b1e0c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x725964229d8e
+0x725964229e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-104539.829
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37820 ] Max: [ 45164 ]
+All mem. alloc. (bytes) : All Cur: [ 29360128 ] Max: [ 29360128 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53c249 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2368
+0x540c4d Libreframe.Sql.Get_Properties at libreframe-sql.adb:660
+0x550b25 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1842
+0x5af29e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b22cc Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7ce0ff629d8e
+0x7ce0ff629e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-110511.883
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37820 ] Max: [ 45164 ]
+All mem. alloc. (bytes) : All Cur: [ 29229056 ] Max: [ 29229056 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53d1c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2380
+0x541bcd Libreframe.Sql.Get_Properties at libreframe-sql.adb:660
+0x551aa5 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1842
+0x5b099e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b39cc Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7149c4c29d8e
+0x7149c4c29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-112530.917
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37484 ] Max: [ 45532 ]
+All mem. alloc. (bytes) : All Cur: [ 27262976 ] Max: [ 27262976 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x552020 Libreframe.Sql.Set_Config at libreframe-sql.adb:2084
+0x5551cf Libreframe.Sql.Schema_Update at libreframe-sql.adb:1997
+0x5b209e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b50cc Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x753951829d8e
+0x753951829e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-112613.680
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37484 ] Max: [ 45532 ]
+All mem. alloc. (bytes) : All Cur: [ 27262976 ] Max: [ 27262976 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x552020 Libreframe.Sql.Set_Config at libreframe-sql.adb:2084
+0x5551cf Libreframe.Sql.Schema_Update at libreframe-sql.adb:1997
+0x5b209e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b50cc Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x739fabe29d8e
+0x739fabe29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-114007.362
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37484 ] Max: [ 45532 ]
+All mem. alloc. (bytes) : All Cur: [ 27787264 ] Max: [ 27787264 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x551d20 Libreframe.Sql.Set_Config at libreframe-sql.adb:2082
+0x554de3 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1995
+0x5b1d5e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b4d8c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7025a1829d8e
+0x7025a1829e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-114055.468
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37484 ] Max: [ 45532 ]
+All mem. alloc. (bytes) : All Cur: [ 27787264 ] Max: [ 27787264 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x551d20 Libreframe.Sql.Set_Config at libreframe-sql.adb:2082
+0x554de3 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1995
+0x5b1d5e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b4d8c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x75906a829d8e
+0x75906a829e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-114242.832
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 09:43:27
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37484 ] Max: [ 45532 ]
+All mem. alloc. (bytes) : All Cur: [ 27787264 ] Max: [ 27787264 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x551e20 Libreframe.Sql.Set_Config at libreframe-sql.adb:2083
+0x554e2b Libreframe.Sql.Schema_Update at libreframe-sql.adb:1996
+0x5b1d1e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b4d4c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x728befc29d8e
+0x728befc29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-115226.938
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 11:51:16
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37820 ] Max: [ 45164 ]
+All mem. alloc. (bytes) : All Cur: [ 29360128 ] Max: [ 29360128 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53c909 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2387
+0x54130d Libreframe.Sql.Get_Properties at libreframe-sql.adb:660
+0x551261 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1849
+0x5b015e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b318c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x75e9dd829d8e
+0x75e9dd829e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-115804.268
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 11:51:16
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37820 ] Max: [ 45164 ]
+All mem. alloc. (bytes) : All Cur: [ 29360128 ] Max: [ 29360128 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53c909 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2387
+0x54130d Libreframe.Sql.Get_Properties at libreframe-sql.adb:660
+0x551261 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1849
+0x5b015e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b318c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x77f84f429d8e
+0x77f84f429e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-120408.569
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 11:51:16
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 37820 ] Max: [ 45164 ]
+All mem. alloc. (bytes) : All Cur: [ 24772608 ] Max: [ 24772608 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53c5c9 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2391
+0x540d42 Libreframe.Sql.Get_Properties at libreframe-sql.adb:660
+0x550ad3 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1853
+0x5afc9e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b2ccc Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7122c1c29d8e
+0x7122c1c29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-121044.621
+Program uptime          : 0h00m03s
+Program build DT stamp  : build 2025-08-09 11:51:16
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 27916 ] Max: [ 35644 ]
+All mem. alloc. (bytes) : All Cur: [ 35651584 ] Max: [ 35651584 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x538335 Libreframe.Sql.Query at libreframe-sql.adb:1467
+0x541e3c Libreframe.Sql.Query at libreframe-sql.adb:1406
+0x546dd8 Libreframe.Sql.Row_Count at libreframe-sql.adb:1613
+0x551b86 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1956
+0x5afc9e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b2ccc Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7c7fbf429d8e
+0x7c7fbf429e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-122656.256
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-09 11:51:16
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 12396 ] Max: [ 23312 ]
+All mem. alloc. (bytes) : All Cur: [ 23199744 ] Max: [ 23199744 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x5372b5 Libreframe.Sql.Query at libreframe-sql.adb:1467
+0x54287b Libreframe.Sql.Get_Config at libreframe-sql.adb:532
+0x5556da Libreframe.Sql.Open_Load at libreframe-sql.adb:2655
+0x55a240 Libreframe.Sql.Open_Database at libreframe-sql.adb:1213
+0x5b1371 Testapi_Sql.Run at testapi_sql.adb:268
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x70b738829d8e
+0x70b738829e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-123416.520
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 11:51:16
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 28444 ] Max: [ 37756 ]
+All mem. alloc. (bytes) : All Cur: [ 24903680 ] Max: [ 24903680 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x5382a0 Libreframe.Sql.Query at libreframe-sql.adb:1401
+0x53bb6e Libreframe.Sql.Query at libreframe-sql.adb:1311
+0x53bbc7 Libreframe.Sql.Query at libreframe-sql.adb:1286
+0x540e01 Libreframe.Sql.Query at libreframe-sql.adb:1278
+0x54ccbd Libreframe.Sql.Schema_Update.Create_Column at libreframe-sql.adb:1782
+0x550801 Libreframe.Sql.Schema_Update at libreframe-sql.adb:1962
+0x5ae5be Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b15ec Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x76ff09e29d8e
+0x76ff09e29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-142529.698
+Program uptime          : 0h00m03s
+Program build DT stamp  : build 2025-08-09 12:51:17
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 27836 ] Max: [ 41748 ]
+All mem. alloc. (bytes) : All Cur: [ 51642368 ] Max: [ 51642368 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53ffe8 Libreframe.Sql.Insert at libreframe-sql.adb:944
+0x54138a Libreframe.Sql.Insert at libreframe-sql.adb:845
+0x552054 Libreframe.Sql.Schema_Update at libreframe-sql.adb:2016
+0x5aeede Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b1f0c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x733c2de29d8e
+0x733c2de29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-143232.295
+Program uptime          : 0h00m03s
+Program build DT stamp  : build 2025-08-09 12:51:17
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 27644 ] Max: [ 41556 ]
+All mem. alloc. (bytes) : All Cur: [ 46923776 ] Max: [ 46923776 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53ffe8 Libreframe.Sql.Insert at libreframe-sql.adb:945
+0x54138a Libreframe.Sql.Insert at libreframe-sql.adb:845
+0x552054 Libreframe.Sql.Schema_Update at libreframe-sql.adb:2017
+0x5aeede Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b1f0c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7bffe3629d8e
+0x7bffe3629e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-150741.928
+Program uptime          : 0h00m03s
+Program build DT stamp  : build 2025-08-09 12:51:17
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 27644 ] Max: [ 41556 ]
+All mem. alloc. (bytes) : All Cur: [ 50987008 ] Max: [ 50987008 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x5415c4 Libreframe.Sql.Insert at libreframe-sql.adb:941
+0x542966 Libreframe.Sql.Insert at libreframe-sql.adb:841
+0x5535d4 Libreframe.Sql.Schema_Update at libreframe-sql.adb:2013
+0x5b045e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b348c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x763af0c29d8e
+0x763af0c29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-151631.117
+Program uptime          : 0h00m03s
+Program build DT stamp  : build 2025-08-09 12:51:17
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 27436 ] Max: [ 38064 ]
+All mem. alloc. (bytes) : All Cur: [ 52690944 ] Max: [ 52690944 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x55113e Libreframe.Sql.Set_Config at libreframe-sql.adb:2121
+0x553612 Libreframe.Sql.Schema_Update at libreframe-sql.adb:2034
+0x5b045e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b348c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7f80b7429d8e
+0x7f80b7429e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-152825.093
+Program uptime          : 0h00m03s
+Program build DT stamp  : build 2025-08-09 12:51:17
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 27436 ] Max: [ 36716 ]
+All mem. alloc. (bytes) : All Cur: [ 49676288 ] Max: [ 49676288 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x55113e Libreframe.Sql.Set_Config at libreframe-sql.adb:2121
+0x553612 Libreframe.Sql.Schema_Update at libreframe-sql.adb:2034
+0x5b045e Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:117
+0x5b348c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x77d6a9229d8e
+0x77d6a9229e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-153004.858
+Program uptime          : 0h00m03s
+Program build DT stamp  : build 2025-08-09 12:51:17
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 27388 ] Max: [ 44212 ]
+All mem. alloc. (bytes) : All Cur: [ 51904512 ] Max: [ 51904512 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x5415c4 Libreframe.Sql.Insert at libreframe-sql.adb:941
+0x542966 Libreframe.Sql.Insert at libreframe-sql.adb:841
+0x5b0b85 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:130
+0x5b350c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7cd100e29d8e
+0x7cd100e29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-154305.749
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 12:51:17
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13164 ] Max: [ 29988 ]
+All mem. alloc. (bytes) : All Cur: [ 37486592 ] Max: [ 37486592 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x5415c4 Libreframe.Sql.Insert at libreframe-sql.adb:941
+0x542966 Libreframe.Sql.Insert at libreframe-sql.adb:841
+0x5b0b85 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:130
+0x5b350c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x70bf04429d8e
+0x70bf04429e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-154432.736
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 12:51:17
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13164 ] Max: [ 29988 ]
+All mem. alloc. (bytes) : All Cur: [ 37617664 ] Max: [ 37617664 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x5415c4 Libreframe.Sql.Insert at libreframe-sql.adb:941
+0x542966 Libreframe.Sql.Insert at libreframe-sql.adb:841
+0x5b0b85 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:130
+0x5b350c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x73d566c29d8e
+0x73d566c29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-154543.990
+Program uptime          : 0h00m06s
+Program build DT stamp  : build 2025-08-09 12:51:17
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 27868 ] Max: [ 38096 ]
+All mem. alloc. (bytes) : All Cur: [ 70647808 ] Max: [ 70647808 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450fe3 Libreframe.Log.Error at libreframe-log.adb:79
+0x53990b Libreframe.Sql.Query at libreframe-sql.adb:1405
+0x53d1da Libreframe.Sql.Query at libreframe-sql.adb:1315
+0x53d233 Libreframe.Sql.Query at libreframe-sql.adb:1290
+0x542a89 Libreframe.Sql.Query at libreframe-sql.adb:1282
+0x5b13f6 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:155
+0x5b350c Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7086b3229d8e
+0x7086b3229e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-154645.492
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 12:51:17
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13484 ] Max: [ 23184 ]
+All mem. alloc. (bytes) : All Cur: [ 31326208 ] Max: [ 31326208 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450e83 Libreframe.Log.Error at libreframe-log.adb:79
+0x53978b Libreframe.Sql.Query at libreframe-sql.adb:1405
+0x53d05a Libreframe.Sql.Query at libreframe-sql.adb:1315
+0x53d0b3 Libreframe.Sql.Query at libreframe-sql.adb:1290
+0x542909 Libreframe.Sql.Query at libreframe-sql.adb:1282
+0x5b1276 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:155
+0x5b338c Testapi_Sql.Run at testapi_sql.adb:272
+0x41ae89 Testapi at testapi.adb:189
+0x41c213 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x773c1b029d8e
+0x773c1b029e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-195359.161
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-09 19:38:36
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 12076 ] Max: [ 23184 ]
+All mem. alloc. (bytes) : All Cur: [ 22544384 ] Max: [ 22544384 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised PROGRAM_ERROR : LibreFrame.Sql.Databases_List.Implementation.TC_Check: attempt to tamper with cursors
+[./testapi]
+0x4f095c Libreframe.Sql.Databases_List.Implementation.Tc_Check at a-conhel.adb:135
+0x4f6ce4 Libreframe.Sql.Databases_List.Delete at a-convec.adb:409
+0x541e5d Libreframe.Sql.Close_Database at libreframe-sql.adb:126
+0x54211e Libreframe.Sql.Close_Database at libreframe-sql.adb:140
+0x5b3555 Testapi_Sql.Run at testapi_sql.adb:254
+0x41ae89 Testapi at testapi.adb:189
+0x41c213 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7ad0a8a29d8e
+0x7ad0a8a29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250809-202147.741
+Program uptime          : 0h00m02s
+Program build DT stamp  : build 2025-08-09 19:59:07
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 12492 ] Max: [ 24568 ]
+All mem. alloc. (bytes) : All Cur: [ 36044800 ] Max: [ 36044800 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x450e83 Libreframe.Log.Error at libreframe-log.adb:79
+0x53c9b5 Libreframe.Sql.Log_Error_Database_Not_Found at libreframe-sql.adb:2486
+0x54174a Libreframe.Sql.Get_Properties at libreframe-sql.adb:707
+0x5418f9 Libreframe.Sql.Close_Database at libreframe-sql.adb:124
+0x541c9a Libreframe.Sql.Close_Database at libreframe-sql.adb:145
+0x5b3a06 Testapi_Sql.Run at testapi_sql.adb:289
+0x41ae89 Testapi at testapi.adb:189
+0x41c213 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x731496629d8e
+0x731496629e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-123430.127
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-10 12:33:34
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 10980 ] Max: [ 23184 ]
+All mem. alloc. (bytes) : All Cur: [ 22544384 ] Max: [ 22544384 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x45133d Libreframe.Log.Error at libreframe-log.adb:79
+0x5510bc Libreframe.Sql.Set_Config at libreframe-sql.adb:2137
+0x5b1b7d Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:202
+0x5b249f Testapi_Sql.Run at testapi_sql.adb:233
+0x41ae89 Testapi at testapi.adb:189
+0x41c213 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x76b521c29d8e
+0x76b521c29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-124117.223
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-10 12:33:34
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 11140 ] Max: [ 23344 ]
+All mem. alloc. (bytes) : All Cur: [ 22806528 ] Max: [ 22806528 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x45149d Libreframe.Log.Error at libreframe-log.adb:79
+0x55257c Libreframe.Sql.Set_Config at libreframe-sql.adb:2145
+0x5b303d Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:202
+0x5b395f Testapi_Sql.Run at testapi_sql.adb:233
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7e9b30c29d8e
+0x7e9b30c29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-124410.055
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-10 12:33:34
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 11140 ] Max: [ 23344 ]
+All mem. alloc. (bytes) : All Cur: [ 22282240 ] Max: [ 22282240 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x45149d Libreframe.Log.Error at libreframe-log.adb:79
+0x55257c Libreframe.Sql.Set_Config at libreframe-sql.adb:2145
+0x5b303d Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:202
+0x5b395f Testapi_Sql.Run at testapi_sql.adb:233
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7e3065e29d8e
+0x7e3065e29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-140527.413
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-10 12:33:34
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13732 ] Max: [ 30396 ]
+All mem. alloc. (bytes) : All Cur: [ 12582912 ] Max: [ 12582912 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x45149d Libreframe.Log.Error at libreframe-log.adb:79
+0x5428be Libreframe.Sql.Insert at libreframe-sql.adb:952
+0x54327a Libreframe.Sql.Insert at libreframe-sql.adb:852
+0x5b3330 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:132
+0x5b551d Testapi_Sql.Run at testapi_sql.adb:237
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7106f0229d8e
+0x7106f0229e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-140557.059
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-10 12:33:34
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13732 ] Max: [ 30396 ]
+All mem. alloc. (bytes) : All Cur: [ 12320768 ] Max: [ 12320768 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x45149d Libreframe.Log.Error at libreframe-log.adb:79
+0x5428be Libreframe.Sql.Insert at libreframe-sql.adb:952
+0x54327a Libreframe.Sql.Insert at libreframe-sql.adb:852
+0x5b3330 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:132
+0x5b551d Testapi_Sql.Run at testapi_sql.adb:237
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x70e8b1c29d8e
+0x70e8b1c29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-140559.057
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-10 12:33:34
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13732 ] Max: [ 30396 ]
+All mem. alloc. (bytes) : All Cur: [ 12582912 ] Max: [ 12582912 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x45149d Libreframe.Log.Error at libreframe-log.adb:79
+0x5428be Libreframe.Sql.Insert at libreframe-sql.adb:952
+0x54327a Libreframe.Sql.Insert at libreframe-sql.adb:852
+0x5b3330 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:132
+0x5b551d Testapi_Sql.Run at testapi_sql.adb:237
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7a93c1c29d8e
+0x7a93c1c29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-140652.402
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-10 12:33:34
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13716 ] Max: [ 30380 ]
+All mem. alloc. (bytes) : All Cur: [ 12320768 ] Max: [ 12320768 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x45149d Libreframe.Log.Error at libreframe-log.adb:79
+0x5428be Libreframe.Sql.Insert at libreframe-sql.adb:952
+0x54327a Libreframe.Sql.Insert at libreframe-sql.adb:852
+0x5b3330 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:132
+0x5b551d Testapi_Sql.Run at testapi_sql.adb:237
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7a8306a29d8e
+0x7a8306a29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-141130.858
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-10 12:33:34
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 14036 ] Max: [ 30700 ]
+All mem. alloc. (bytes) : All Cur: [ 12189696 ] Max: [ 12189696 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x45149d Libreframe.Log.Error at libreframe-log.adb:79
+0x5428be Libreframe.Sql.Insert at libreframe-sql.adb:952
+0x54327a Libreframe.Sql.Insert at libreframe-sql.adb:852
+0x5b36bd Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:133
+0x5b58c1 Testapi_Sql.Run at testapi_sql.adb:238
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7f5d65029d8e
+0x7f5d65029e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-141404.100
+Program uptime          : 0h00m01s
+Program build DT stamp  : build 2025-08-10 12:33:34
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 14576 ] Max: [ 32248 ]
+All mem. alloc. (bytes) : All Cur: [ 12451840 ] Max: [ 37785600 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[/home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin/testapi]
+0x45149d Libreframe.Log.Error at libreframe-log.adb:79
+0x5428be Libreframe.Sql.Insert at libreframe-sql.adb:952
+0x54327a Libreframe.Sql.Insert at libreframe-sql.adb:852
+0x5b36bd Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:133
+0x5b58c1 Testapi_Sql.Run at testapi_sql.adb:238
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7ffff7c29d8e
+0x7ffff7c29e3e
+[/home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin/testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-141639.177
+Program uptime          : 0h00m20s
+Program build DT stamp  : build 2025-08-10 12:33:34
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 14576 ] Max: [ 32248 ]
+All mem. alloc. (bytes) : All Cur: [ 12451840 ] Max: [ 38060032 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[/home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin/testapi]
+0x45149d Libreframe.Log.Error at libreframe-log.adb:79
+0x5428be Libreframe.Sql.Insert at libreframe-sql.adb:952
+0x54327a Libreframe.Sql.Insert at libreframe-sql.adb:852
+0x5b36bd Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:133
+0x5b58c1 Testapi_Sql.Run at testapi_sql.adb:238
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7ffff7c29d8e
+0x7ffff7c29e3e
+[/home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin/testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-141726.475
+Program uptime          : 0h00m02s
+Program build DT stamp  : build 2025-08-10 12:33:34
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 27044 ] Max: [ 47684 ]
+All mem. alloc. (bytes) : All Cur: [ 29360128 ] Max: [ 29360128 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x45149d Libreframe.Log.Error at libreframe-log.adb:79
+0x5428be Libreframe.Sql.Insert at libreframe-sql.adb:952
+0x54327a Libreframe.Sql.Insert at libreframe-sql.adb:852
+0x5b1e91 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:133
+0x5b4095 Testapi_Sql.Run at testapi_sql.adb:272
+0x41afc2 Testapi at testapi.adb:189
+0x41c365 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x78e736029d8e
+0x78e736029e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------
+
+Exception time          : 20250810-143228.211
+Program uptime          : 0h00m00s
+Program build DT stamp  : build 2025-08-10 14:32:14
+Program name & version  : testapi v0.8
+Framework name & version: LibreFrame v0.8
+Start directory         : /home/sr/Seafile/Sowebio/informatique/xp/github/libreframe/bin
+Home directory          : /home/sr
+Ada mem. alloc. (bytes) : Ada Cur: [ 13780 ] Max: [ 30476 ]
+All mem. alloc. (bytes) : All Cur: [ 12582912 ] Max: [ 12582912 ]
+Log Info Exception      : No info message set
+
+Where possible, addresses have been replaced by line numbers.
+
+raised LIBREFRAME.LOG.ERROR_TRACE : libreframe-log.adb:79
+[./testapi]
+0x45133d Libreframe.Log.Error at libreframe-log.adb:79
+0x54267e Libreframe.Sql.Insert at libreframe-sql.adb:948
+0x54303a Libreframe.Sql.Insert at libreframe-sql.adb:848
+0x5b39f5 Testapi_Sql.Run.T2_T3_T4_T5 at testapi_sql.adb:133
+0x5b5c29 Testapi_Sql.Run at testapi_sql.adb:238
+0x41ae89 Testapi at testapi.adb:189
+0x41c213 Main at b__testapi.adb:722
+[/lib/x86_64-linux-gnu/libc.so.6]
+0x7be9c0c29d8e
+0x7be9c0c29e3e
+[./testapi]
+0x417da3 _start at ???
+0xfffffffffffffffe
+
+-------------------------------------------------------------------------------------

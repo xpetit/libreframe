@@ -30,6 +30,7 @@
 /bin/testgui
 /config/
 /lib-backup/
+/lib-out/
 /obj/
 /shelf/
 /workspace.xml
