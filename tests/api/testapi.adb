@@ -6,7 +6,7 @@
 --    _|  _|      _|        _|
 --      _|      _|_|_|_|  _|_|_|_|
 --
---  @file      testapi.adb
+--  @file      testapi.adbb
 --  @copyright See authors list below and v22.copyrights file
 --  @licence   LGPL v3
 --  @encoding  UTF-8
