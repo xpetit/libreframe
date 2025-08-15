@@ -8,12 +8,14 @@
 *.dbg
 *.dll
 *.DS_Store
+*.err
 *.exe
 *.jar
 *.local
 *.lock
 *.log
 *.o
+*.pdf
 *.prj
 *.pyc
 *.sln
@@ -24,6 +26,7 @@
 *.swp
 *.tmp
 *.war
+*.zip
 *~
 /alire/
 /bin/testapi
